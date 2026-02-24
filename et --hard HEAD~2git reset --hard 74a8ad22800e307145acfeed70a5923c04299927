@@ -1,0 +1,212 @@
+[33m7ddcc05[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32melite[m[33m, [m[1;31morigin/elite[m[33m, [m[1;31morigin/HEAD[m[33m)[m 🎨 Added Font Changer Plugin
+[33mb877bdd[m ...
+[33m0d71a91[m Added font changer plugin
+[33m74a8ad2[m ...
+[33mdbdeab4[m Update alive.py
+[33meba70fc[m Refactor alive plugin for improved structure
+[33me3c1563[m Update alive.py
+[33m98697cc[m Add support buttons and update message handling
+[33mbce3f42[m Create send.py
+[33md405b9e[m Update fun.py
+[33mddd986b[m Update startup.py
+[33m1e143fc[m Update README.md
+[33m2e0a420[m Update README.md
+[33md618963[m Updated README.md with new content
+[33md3f563f[m Update README.md
+[33m26f60cd[m Update README.md
+[33m3308f97[m Add sample.env with Telegram API credentials
+[33md15111d[m Update README.md
+[33mac21af8[m Update README.md
+[33m8e0fa2e[m Update README.md
+[33m9ee200f[m Update install.py
+[33m30697fd[m Refactor install.py for improved functionality
+[33m2acbe9b[m Refactor bot.py and add remove_handler function
+[33m3094813[m Refactor and enhance plugin installation process
+[33m31b31a7[m Update requirements.txt
+[33md10d128[m Remove google-genai from requirements.txt
+[33mb6eb548[m Update requirements.txt
+[33ma43615b[m Refactor plugin install process and improve messages
+[33mdf6448f[m Implement plugin manager for install/uninstall functionality
+[33m6f237ad[m Create install.py
+[33med8a6af[m Refactor digital PFP generation and error handling
+[33mb016176[m Refactor image processing and text drawing
+[33m599eb1e[m Enhance error handling and notifications in autoprofile
+[33m0eaefbb[m Update autoprofile.py for IST time and downloads
+[33m21ed814[m Add Auto Profile Tools for Telegram
+[33m6fbfeba[m Refactor Playstore plugin with updated asset URLs
+[33mf1265bb[m Delete images/app-full.jpg
+[33m2623073[m Delete images/app-suggest.jpg
+[33mc66fd07[m Add files via upload
+[33m2bd919c[m Refactor Playstore plugin with enhanced features
+[33m70aa8c5[m Add Play Store app search plugin
+[33m8619120[m Add files via upload
+[33md0fe7c8[m Add files via upload
+[33m5e40365[m Fix syntax error in channel joining list
+[33me91f92e[m Add Android tools commands for Magisk and TWRP
+[33mde112c0[m Update startup.py
+[33m803e02d[m Refactor README.md for improved clarity and organization
+[33mb66c183[m Refactor README.md for better structure and readability
+[33mecd0fac[m remove Sevalla from README
+[33m0f666c9[m Improve raid plugin with user targeting and commands
+[33m1fe9d67[m Clean up requirements by removing unused packages
+[33m01a00d5[m Update pmpermit.py
+[33mf77cbc3[m Update pmpermit.py
+[33maa9a4c2[m Update pmpermit.py
+[33mb7b3126[m Delete plugins/quotely.py
+[33mc248b84[m Update quotely.py
+[33mfcfe2fd[m Create quotely.py
+[33mf752085[m Update raid.py
+[33m0f8a02c[m Update pmpermit.py
+[33m44dbcfe[m Update info.py
+[33m0025413[m Update greetings.py
+[33mb2d355c[m Update fun_animations.py
+[33mb74c96d[m Update animation.py
+[33ma49dc51[m Update README.md
+[33m56711f9[m Update README.md
+[33macc60d8[m Update help.py
+[33ma032546[m Update bot.py
+[33mdc459a4[m 🎭 Major Help System Enhancement - Direct Plugin Access & Advanced Discovery
+[33m316272a[m #bug fixed
+[33m57a541f[m Update spam.py
+[33m9366e67[m Update bot.py
+[33md0405a4[m 🎭 Fix help menu command syntax display and enhance bot functionality
+[33m9620bb8[m Create spam.py
+[33m94a22b5[m #bug fixed
+[33m666ce88[m Bug fixed
+[33m1d74cb8[m Update README.md
+[33m86b3a38[m Update README.md
+[33ma36304d[m fix: update GitHub repo stats to reflect latest data
+[33m14c9cd7[m Update README.md
+[33m3881bb5[m Update README.md
+[33m389582d[m Update config.py
+[33mb8dbb07[m Create broadcast.py
+[33m586a63d[m Update and rename tools2.py to toolkit.py
+[33m8c311e0[m Create tools2.py
+[33mec7ac91[m Update README.md
+[33m13c298a[m Update CONTRIBUTORS.md
+[33ma22b4aa[m Update startup.py
+[33m4fea304[m Update README.md
+[33m2200f89[m Update README.md
+[33me25eeb9[m Update startup.py
+[33m31a0c0c[m Update README.md
+[33md20801c[m Update README.md
+[33mbf38a28[m Create CONTRIBUTORS.md
+[33mf53dd92[m Update README.md
+[33ma48f768[m Update bot.py
+[33m7ab6944[m Update bot.py
+[33m0f9941c[m Update bot.py
+[33m0946af6[m Update bot.py
+[33m1e99bff[m Update bot.py
+[33m7468fda[m Update bot.py
+[33mec22299[m Update bot.py
+[33mf1a745e[m Delete plugins/autoforword.py
+[33m99b42bd[m Update zip.py
+[33mdec485b[m Update zip.py
+[33m2aef9dd[m Update zip.py
+[33maedda23[m Update zip.py
+[33m7e5c81b[m Update startup.py
+[33m6651555[m Update startup.py
+[33mef8ecae[m #update startup.py
+[33m981e114[m Update autoforword.py
+[33m436cc5e[m Create autoforword.py
+[33mc234e79[m Create zip.py
+[33m7120139[m Update README.md
+[33mc7047ee[m Update README.md
+[33m89a5345[m Update README.md
+[33ma3b2d7d[m Update README.md
+[33m153f3f3[m Update README.md
+[33md82ae95[m Update README.md
+[33m0eb1e05[m Update startup.py
+[33m3e1e7ae[m Update startup.py
+[33mf64aeba[m Update startup.py
+[33m8dd89fb[m Update startup.py
+[33m25ef96e[m Delete images/A
+[33m3e4c34d[m Add files via upload
+[33mf447266[m Create A
+[33m6752517[m Update startup.py
+[33m231c8fc[m Update startup.py
+[33mb0ed91c[m Update startup.py
+[33mdc698a8[m Update startup.py
+[33m05f9db7[m Update startup.py
+[33mfe4170c[m Update startup.py
+[33ma28017b[m Update startup.py
+[33mbeb7f8d[m Update startup.py
+[33m8002eae[m Update main.py
+[33m159ce0e[m Create startup.py
+[33md6bb9a0[m Delete plugins/carbon.py
+[33m2e42032[m Create carbon.py
+[33mb034491[m Update eval.py
+[33me2871bc[m Update requirements.txt
+[33m6f6baa1[m Update requirements.txt
+[33mb170266[m Create eval.py
+[33m352bb98[m Delete plugins/Dev.py
+[33m7e887b0[m Update purge.py
+[33mdf72d9e[m Update Dev.py
+[33mea4eee3[m Update Dev.py
+[33m9a5c2aa[m Create Dev.py
+[33m89ed27a[m Delete plugins/logs.py
+[33mbef5dbb[m Update logs.py
+[33mc12506e[m Update logs.py
+[33mfcaf5d8[m Create logs.py
+[33mde9482a[m Create Cipher_ai.py
+[33mab30a9e[m Delete plugins/cipher_ai.py
+[33mea56d52[m Delete plugins/repo.py
+[33m720100d[m Update cipher_ai.py
+[33m3b586fe[m Delete plugins/animation_adv.py
+[33me6ce5eb[m Update animation.py
+[33mc4e6d87[m Update animation.py
+[33m6c8cdcf[m Update animation.py
+[33mda600b4[m Update animation_adv.py
+[33mdf958b9[m Delete plugins/auto_chat.py
+[33ma0660e4[m Update stats.py
+[33m21adca5[m Update stats.py
+[33m5e083e9[m Update stats.py
+[33m88f34af[m Create stats.py
+[33m57454b9[m Delete plugins/cipher.py
+[33m52dc99d[m Update cipher.py
+[33m2fc8e76[m Create cipher.py
+[33m1fd1ce5[m Rename Cipher_ai.py to cipher_ai.py
+[33meff3ed1[m Update pmpermit.py
+[33mb91c48e[m Update pmpermit.py
+[33mefca3aa[m Update pmpermit.py
+[33mfcaf3d0[m Update auto_chat.py
+[33mf1728e6[m Create auto_chat.py
+[33m905d1d6[m Update Cipher_ai.py
+[33md3d8379[m Update Cipher_ai.py
+[33mb1ab025[m Update Cipher_ai.py
+[33m55b810b[m Update Cipher_ai.py
+[33m8eda10e[m Update Cipher_ai.py
+[33m8087d5c[m Update requirements.txt
+[33m5963d9f[m Create Cipher_ai.py
+[33m4a4cf18[m Update repo.py
+[33mee90dd6[m Create repo.py
+[33md20159c[m Create fun_animations.py
+[33mbb7b577[m Update updater.py
+[33m14aee64[m Update tools.py
+[33ma7b5a2f[m Update raid.py
+[33meea2963[m Update purge.py
+[33m70a4caf[m Update pmpermit.py
+[33m69d2aff[m Update picture_down.py
+[33m9d81c48[m Update greetings.py
+[33mfa6cfd1[m Update clone.py
+[33mc24d547[m Update bot.py
+[33m8b3f209[m Update info.py
+[33mb6ca9b4[m Update greetings.py
+[33m0d8d677[m Update clone.py
+[33mcb324b3[m Update bot.py
+[33m4e993ac[m Update alive.py
+[33m4b24fd4[m Update afk.py
+[33m4c2c3ca[m Update admin.py
+[33m6955281[m Update README.md
+[33m88c72b0[m Create LICENSE
+[33mffde1e8[m Update README.md
+[33m1565316[m Update clone.py
+[33m026d590[m Update info.py
+[33mdd07429[m Update afk.py
+[33m630b76c[m Update afk.py
+[33m6b25fea[m Update afk.py
+[33m4849135[m Update afk.py
+[33m806b22e[m Update afk.py
+[33m1c05690[m Update afk.py
+[33mc9a39a8[m Update vars.py
+[33m20fcaa8[
